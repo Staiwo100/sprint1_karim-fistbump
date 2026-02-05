@@ -1,5 +1,5 @@
-#Day 2
-##Date: 2/5/2026   
+# Day 2
+## Date: 2/5/2026   
 
 ## [Person 1 Name]   
 **What I did:** [Yesterday or since last standup]   
