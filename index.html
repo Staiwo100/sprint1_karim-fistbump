@@ -773,13 +773,23 @@
                 if (pic.parentElement) {
                     pic.remove();
                 }
-            }, 3000);
+            }, 60000);
         }
 
-        setInterval(() => {
-            spawnRandomPicture();
-        }, 120000); // Spawn once every 2 minutes
+        // setInterval(() => {
+        //     spawnRandomPicture();
+        // }, 1000); // Spawn once every 1 minutes
 
+        //THIS WILL DO RANDOM BETWEEN 30-60 seconds
+        function scheduleRandomPicture() {
+            const delay = Math.random() * (60000 - 30000) + 30000; // 30–60 seconds
+            setTimeout(() => {
+                spawnRandomPicture();
+                scheduleRandomPicture(); // keep it going
+            }, delay);
+        }
+
+        scheduleRandomPicture();
 
         // Update Karim's appearance based on owned items
         function updateKarimImage() {
