@@ -51,3 +51,31 @@
 
 ##
 **Notes from Lead/Instructor:** N/A
+
+***
+
+# Day 4
+## Date: 2/9/2026   
+   
+## [Lucas]   
+**What I did:** Fully implemented and fixed the greentimer. Searched for and continued to fix bugs.   
+**What I'm doing:** Implementing a new powerup and fixing some image-related bugs.   
+**Blocked?** No 
+   
+## [Parth]   
+**What I did:** Created the snake minigame and added the fist to lead to the greentimer.   
+**What I'm doing:** Injected bugs into the code and working on some general project requirements.   
+**Blocked?** [No]   
+   
+## [Biruk]   
+**What I did:** Brainstormed some new features and discussed their implementation.   
+**What I'm doing:** Wrapping up all project requirements and creating the README.md file   
+**Blocked?** None   
+   
+## [Jack]   
+**What I did:** Created the greentimer and assited with the snake minigame. 
+**What I'm doing:** Guiding the team and attempting to implement sound effects.   
+**Blocked?** No   
+
+##
+**Notes from Lead/Instructor:** Lead thinks the team did a good job.
