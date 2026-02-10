@@ -1,13 +1,13 @@
 # Karim Fist-bumper
 ### Team Members
-Lucas Campbell — Developer
-Jack Daubman — Developer
-Parth Thite — Developer
-Biruk Yidnekachew — Developer
+Lucas Campbell — Developer   
+Jack Daubman — Developer   
+Parth Thite — Developer   
+Biruk Yidnekachew — Developer   
 
 ## Game Overview
-**Game Type:** Clicker game/Idle Game
-**Overview:** Karim Fist-bumper helps you cure your WECIB boredom and satisfy your longing of Karim in a fun and engaging way. As a clicker game where the ultimate goal is to occupy your time away from Karim, you're rewarded with coins to fist bump him and these coins allow you to buy upgrades to improve your gameplay. You'll also be able to play a snake minigame if you'd like something else to do from time to time and click the randomly appearing fist bumps to unlock a coins multiplier.
+**Game Type:** Clicker game/Idle Game   
+**Overview:** Karim Fist-bumper helps you cure your WECIB boredom and satisfy your longing of Karim in a fun and engaging way. As a clicker game where the ultimate goal is to occupy your time away from Karim, you're rewarded with coins to fist bump him and these coins allow you to buy upgrades to improve your gameplay. You'll also be able to play a snake minigame if you'd like something else to do from time to time and click the randomly appearing fist bumps to unlock a coins multiplier.   
 
 ## Core Mechanics
 1. Users can click Karim to earn coins
@@ -16,7 +16,7 @@ Biruk Yidnekachew — Developer
 4. Users can play a snake minigame 
 
 ## How to Run
-**Prerequisites:** You must have a browser with HTML, CSS, and JavaScript compatibility as well as a working internet connection.
+**Prerequisites:** You must have a browser with HTML, CSS, and JavaScript compatibility as well as a working internet connection.   
 **Instructions to run:**
 1. [Click here](https://byidnekachew.github.io/sprint1_karim-fistbump/) to open the game in a new tab. Alternatively, paste this plain text into a new tab in your browser: https://byidnekachew.github.io/sprint1_karim-fistbump/
 2. Click Karim to get started with the game! You can buy upgrades on the righthand side and play the snake minigame by clicking on the bottom left corner.
@@ -35,9 +35,9 @@ Focused on: Basic functionality and powerups which advanced gameplay and stylize
 Deferred to Week 7: Sound effects and additional powerups.
 
 ## Known Issues & Limitations
-Aside from injected bugs for the assignment, this game has no bugs known to the development team. Please report all bugs to Team Lead Jack Daubman
+Aside from injected bugs for the assignment, this game has no bugs known to the development team. Please report all bugs to Team Lead Jack Daubman.
 
-**Incomplete Features**
+**Incomplete Features**   
 Sound effects for airpods: Ran out of time, planned for future development
 
 ## Recommendations for QA team
@@ -46,19 +46,19 @@ Sound effects for airpods: Ran out of time, planned for future development
 * Attempt to diagnose issues with general user experience
 
 ## File Structure
-.
-├── resources            # Contains additional gameplay images
-├── index.html           # Main game code
-├── README.md            # This file
-├── STANDUP_NOTES.md     # Daily standups
-├── BLOCKERS.md          # Issues encountered & resolutions
-├── CODE_STYLE.md        # Coding guidelines
-├── KNOWN_ISSUES.md      # Detailed bug list
-├── DEMO.txt             # How to play the game (currently incomplete)
-├── game_spec.md         # Initial game specifications
-├── karimfistbumper.png  # Major game image
-├── cloudBackground.jpg  # Major game backdrop
-└── [optional] test_game.py   # Unit tests (if added)
+.   
+├── resources            # Contains additional gameplay images   
+├── index.html           # Main game code   
+├── README.md            # This file   
+├── STANDUP_NOTES.md     # Daily standups   
+├── BLOCKERS.md          # Issues encountered & resolutions   
+├── CODE_STYLE.md        # Coding guidelines   
+├── KNOWN_ISSUES.md      # Detailed bug list   
+├── DEMO.txt             # How to play the game (currently incomplete)   
+├── game_spec.md         # Initial game specifications   
+├── karimfistbumper.png  # Major game image   
+├── cloudBackground.jpg  # Major game backdrop   
+└── [optional] test_game.py   # Unit tests (if added)   
 
 ## Development Notes
 **Technologies Used:**
